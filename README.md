@@ -4,7 +4,7 @@
 
 Este proyecto consiste en un prototipo desarrollado en Java y MySQL para la gestión de incidentes informáticos y equipamiento tecnológico.
 
-Fue realizado como parte de la Actividad Práctica Integradora de la materia Programación Orientada a Objetos.
+Fue realizado como parte de la Actividad Práctica Integradora de la materia Seminario de práctica informática.
 
 El sistema permite:
 
